@@ -1,0 +1,24 @@
+Opera browser "Spatial Navigation" can be used to Safari. 
+
+Usage:
+ Shift + Up     : navigate up
+ Shift + Down   : navigate down
+ Shift + Left   : navigate left
+ Shift + Right  : navigate right
+ 
+Author :
+ is0me(spice1989g@gmail.com)
+ 
+Thanks :
+mallowlabs - Source code that became origin.
+(http://github.com/mallowlabs/crossfire-chrome/)
+
+Repository :
+ https://github.com/is0me/CrossFire-for-Safari
+ This extension is an open source software (The MIT License). 
+ 
+Problem and schedule :
+1 It aims at the behavior of Opera. :-)
+2 Vi command mode.
+3 Emacs command mode.
+4 focus color change.
